@@ -25,12 +25,12 @@
     "url": "git://github.com/BorderlessLabs/base64.git"
   },
   "keywords": [
-    "parse",
-    "authorization",
-    "auth",
-    "header",
-    "basic",
-    "bearer",
+    "base64",
+    "base64url",
+    "encode",
+    "decode",
+    "url",
+    "64",
     "typescript"
   ],
   "author": {
